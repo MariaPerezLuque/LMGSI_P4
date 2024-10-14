@@ -1,0 +1,70 @@
+
+h1  {
+  color: rgb(164, 103, 224);
+  text-align: center;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 25px;
+  font-family:verdana;
+
+  }
+caption {
+  color:brown;
+  size: 25px;
+  font-weight: bold;
+  font-family:verdana;
+
+}
+th {
+  background-color:violet;
+  text-align: center;
+  font-weight: bold;
+}
+table, td, th {
+  border: 1px solid #000000;
+  border-collapse: collapse;  
+  padding: 20px;
+  width: 70%;
+  margin:auto;
+  text-align: center;
+  font-family:verdana;
+
+
+}
+.BD {
+  background-color:rgb(252, 255, 76)
+
+}
+
+.LMGSI {
+  background-color:rgb(91, 240, 170)
+
+}
+
+.PED {
+  background-color: blueviolet;
+}
+
+.SI {
+  background-color: pink;
+}
+
+p {
+  color: rgb(224, 103, 176);
+  text-align: center;
+  font-weight: bold;
+  font-family:verdana;
+
+}
+.hora {
+padding: 10px;
+  width: 180px;
+  font-size: 20px;
+}
+
+.descans {
+  text-align: center;
+  padding: 15px;
+  font-size: 20px;
+
+}
